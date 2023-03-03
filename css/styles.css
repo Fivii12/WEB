@@ -1,0 +1,212 @@
+.header{
+    background: url(../img/Lets_do_it_together.jpg) no-repeat;
+    background-color: rgb(255, 255, 255);
+}
+.header__Top-Escape{
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;    
+    color: #FFFFFF;
+}
+.header__Top-link{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.header__main-header{
+    font-family: 'Lora';
+    font-style: normal;
+font-weight: 400;
+    font-size: 50px;
+    line-height: 51px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+.header__main-text{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    color: rgba(255, 255, 255, 0.63);
+}
+.header__main-button{
+    height: 44px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background: #DD783F;
+    border-radius: 3px;
+}
+.header__main-buttontext{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.header__bottom-link{   
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #768088;
+}
+.featured-posts{
+    background-color: #FFFFFF;
+}
+.featured-posts__title{   
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 2px;
+    color: #2E2E2E;
+}
+.featured-posts__The-Road-Ahead{
+    background: url(../img/The_Road_Ahead.png) no-repeat;
+}
+.featured-posts__From-Top-Down{
+    background: url(../img/From_Top_Down.png) no-repeat;
+}
+.featured-posts__header{   
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.featured-posts__text{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    color: rgba(255, 255, 255, 0.7);
+}   
+.featured-posts__bottom-name{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 35px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.featured-posts__bottom-date{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 35px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.featured-posts__bottom-Mat-Vogels{
+    background: url(../img/Mat_Vogels.jpg);
+}
+.featured-posts__bottom-William-Wong{
+    background: url(../img/William_Wong.jpg);
+}
+.featured-posts__button{
+    height: 26px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background: #DD783F;
+    border-radius: 2px;
+}
+.featured-posts__buttontext{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.most-recent{
+    background-color: #FFFFFF;
+}
+.most-recent__title{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 2px;
+    color: #2E2E2E;
+}
+.most-recent__header{
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #101315;
+}
+.most-recent__text{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 19px;
+    color: #7A7A7A;
+}
+.most-recent__authorname{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 35px;
+    color: #999999;
+}
+.most-recent__date{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 35px;
+    color: #999999;
+}
+.footer{
+    background: url(../img/footer.png) #4D565D;
+    border-radius: 0px;
+}
+.footer__escape{
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;    
+    color: #FFFFFF;
+}
+.footer__link{
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.6);
+}
+.background{
+    background: #F7F7F7;
+    border-radius: 0px;
+}
+.background__posts{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.09);
+    border-radius: 3px;
+}
